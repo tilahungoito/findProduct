@@ -21,7 +21,6 @@ frontend/node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-/node_modules
-/node_modules
+
 market_web/node_modules/
 market_web/frontend/node_modules/
